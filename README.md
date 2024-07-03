@@ -1,4 +1,4 @@
-# My Personl website!
+# My Personal website!
 
 Feel free to browse
 
